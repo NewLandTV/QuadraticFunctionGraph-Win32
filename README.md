@@ -7,7 +7,7 @@ You have to compile to run.
 + Change some variables and compile the source code for execution.
 
 ## Features
-![Youtube Thumbnail](https://i9.ytimg.com/vi_webp/aTbvUk7UHOU/mqdefault.webp?v=64abd065&sqp=CPCRtaUG&rs=AOn4CLAMnJOx8IsO9eyJiya60krGwAcKhA)
+![Youtube Thumbnail](https://i.ytimg.com/vi/aTbvUk7UHOU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX5-b6lfJjn_EXnUAf6amU2JW8FA)
 [Youtube](https://www.youtube.com/watch?v=aTbvUk7UHOU)
 
 ## Social
